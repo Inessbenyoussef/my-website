@@ -1,0 +1,25 @@
+.avatar {
+	width: 60px;
+	height: 60px;
+	border-radius:50%;
+}.banner {
+  width: 100%;
+  background-image: url("../../images/photographer.jpg");
+  height: 405px;
+  background-color: white;
+  background-position: center;
+}
+
+
+.banner .container h1 {
+	font-size: 50px;
+	color: white;
+}
+
+.banner .container h2 {
+	font-size: 30px;
+	font-weight: bolder;
+	opacity: 0.8;
+	margin-bottom:40px;
+	color: white;
+}
